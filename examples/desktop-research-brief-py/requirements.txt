@@ -1,5 +1,0 @@
-anthropic==1.2.0
-httpx==0.28.1
-python-dotenv==1.2.3
-solari-core==0.2.0
-solari-desktop==0.2.0
